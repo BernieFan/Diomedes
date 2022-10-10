@@ -49,7 +49,7 @@ nav ul li a::after{
     content: '';
     width: 0;
     height: 3px;
-    background: #786B52;
+    background: rgb(255, 0, 0);
     position: absolute;
     left: 0;
     bottom: -6px;
@@ -88,7 +88,7 @@ nav ul li a:hover::after{
 }
 
 .contact-left p i{
-    color: #ff004f;
+    color: #786B52;
     margin-right: 15px;
     font-size: 25px;
 }
